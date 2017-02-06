@@ -13,7 +13,8 @@ namespace sampleconsoleforgit
 
             Console.WriteLine("welcome to git");
 
-            Console.WriteLine("installation completed");
+            Console.WriteLine("installation for branch");
+
 
 
         }
